@@ -1,0 +1,2 @@
+webpackJsonp([22582771170649],{362:function(t,o){t.exports={data:{markdownRemark:{html:"<p>hi from test project</p>",frontmatter:{title:"Dice Chatbot",link:"",repo:"",zoom:null}}},pathContext:{slug:"/projects/professional/dice-chatbot/"}}}});
+//# sourceMappingURL=path---projects-professional-dice-chatbot-2208b1d69919713b34e9.js.map

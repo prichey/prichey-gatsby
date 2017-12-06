@@ -1,0 +1,2 @@
+webpackJsonp([0x9727ec1addb7],{355:function(t,a){t.exports={data:{markdownRemark:{html:"<p>It's a spinning pizza emoji with Gregorian chanting in the background.</p>",frontmatter:{title:"pizza.church",link:"http://pizza.church/",repo:"https://github.com/prichey/pizza-church",zoom:null}}},pathContext:{slug:"/projects/personal/pizza-church/"}}}});
+//# sourceMappingURL=path---projects-personal-pizza-church-b1605b0bc3620f733b82.js.map
