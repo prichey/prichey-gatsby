@@ -1,0 +1,2 @@
+webpackJsonp([3078331897135],{353:function(t,o){t.exports={data:{markdownRemark:{html:"<p>hi from test project</p>",frontmatter:{title:"gbmf",link:"",repo:"",date:"2016",zoom:null,lang:null}}},pathContext:{slug:"/projects/personal/gbmf/"}}}});
+//# sourceMappingURL=path---projects-personal-gbmf-6456ca5448d5022ac6e2.js.map

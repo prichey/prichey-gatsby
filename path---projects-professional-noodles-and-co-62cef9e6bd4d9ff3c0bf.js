@@ -1,0 +1,2 @@
+webpackJsonp([0xf12b0bade558],{365:function(e,o){e.exports={data:{markdownRemark:{html:'<p>During my time as a developer at <a href="http://www.40digits.com/" target="_blank">40Digits</a>, I had the privilege of being the lead developer for the relaunch of noodles.com for Noodles &#x26; Company.</p>',frontmatter:{title:"noodles.com",link:"",repo:"",date:"2017",zoom:null,lang:null}}},pathContext:{slug:"/projects/professional/noodles-and-co/"}}}});
+//# sourceMappingURL=path---projects-professional-noodles-and-co-62cef9e6bd4d9ff3c0bf.js.map

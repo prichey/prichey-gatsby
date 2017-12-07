@@ -1,0 +1,2 @@
+webpackJsonp([65018831246031],{363:function(t,n){t.exports={data:{markdownRemark:{html:"<p>hi from test project</p>",frontmatter:{title:"Mapkins Machine",link:"",repo:"",date:"2017",zoom:null,lang:null}}},pathContext:{slug:"/projects/professional/mapkins-machine/"}}}});
+//# sourceMappingURL=path---projects-professional-mapkins-machine-33ee8c653d11fdfa3e02.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([2923927741699],{364:function(e,o){e.exports={data:{markdownRemark:{html:"<p>hi from test project</p>",frontmatter:{title:"millersalehouse.com",link:"",repo:"",date:"2016",zoom:null,lang:null}}},pathContext:{slug:"/projects/professional/millers-ale-house/"}}}});
+//# sourceMappingURL=path---projects-professional-millers-ale-house-a6133dd79d0618a05910.js.map

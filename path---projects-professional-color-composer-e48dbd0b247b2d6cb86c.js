@@ -1,0 +1,2 @@
+webpackJsonp([39661237168643],{361:function(o,t){o.exports={data:{markdownRemark:{html:"<p>hi from test project</p>",frontmatter:{title:"Color Composer",link:"",repo:"",date:"2017",zoom:null,lang:null}}},pathContext:{slug:"/projects/professional/color-composer/"}}}});
+//# sourceMappingURL=path---projects-professional-color-composer-e48dbd0b247b2d6cb86c.js.map
