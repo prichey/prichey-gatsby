@@ -16,21 +16,17 @@
       "path---projects-professional-dice-chatbot-76c377dbcbab40e6cfcb.js",
       "path---projects-professional-dice-chatbot-76c377dbcbab40e6cfcb.js.map"
     ],
-    "path---blog-test": [
-      "path---blog-test-cf81714909038c3884dc.js",
-      "path---blog-test-cf81714909038c3884dc.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c915a3dd04ac0d749c16.js",
-      "component---src-pages-index-js-c915a3dd04ac0d749c16.js.map"
+      "component---src-pages-index-js-1ceb67c7d8a64c221e6a.js",
+      "component---src-pages-index-js-1ceb67c7d8a64c221e6a.js.map"
     ],
     "path---projects-professional-color-composer": [
       "path---projects-professional-color-composer-e48dbd0b247b2d6cb86c.js",
       "path---projects-professional-color-composer-e48dbd0b247b2d6cb86c.js.map"
     ],
     "path---blog": [
-      "path---blog-6943c9372bfb94639061.js",
-      "path---blog-6943c9372bfb94639061.js.map"
+      "path---blog-58fd72a82b82f4a569e5.js",
+      "path---blog-58fd72a82b82f4a569e5.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -44,6 +40,10 @@
       "path---projects-personal-bronnerbot-89ecf2f7e5191876f445.js",
       "path---projects-personal-bronnerbot-89ecf2f7e5191876f445.js.map"
     ],
+    "path---blog-2017": [
+      "path---blog-2017-b58935704749220ee52a.js",
+      "path---blog-2017-b58935704749220ee52a.js.map"
+    ],
     "path---projects": [
       "path---projects-fc5f62bbd31ed6ded9b3.js",
       "path---projects-fc5f62bbd31ed6ded9b3.js.map"
@@ -53,8 +53,8 @@
       "component---src-templates-project-js-e09bbcfe90422b2e7a26.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-15bf48eafa2b834515cf.js",
-      "component---src-layouts-index-js-15bf48eafa2b834515cf.js.map"
+      "component---src-layouts-index-js-a315cad7113f5dd4ef11.js",
+      "component---src-layouts-index-js-a315cad7113f5dd4ef11.js.map"
     ],
     "path---projects-personal-they-linkedin": [
       "path---projects-personal-they-linkedin-a51938049c85c550283b.js",
@@ -113,9 +113,9 @@
       "component---src-pages-projects-js-3b7bcd8e9b09c0847e05.js.map"
     ],
     "app": [
-      "app-232c1a8d3c8fc794b013.js",
+      "app-1634b66e1f8b1989aa94.js",
       "build-js-styles.css",
-      "app-232c1a8d3c8fc794b013.js.map",
+      "app-1634b66e1f8b1989aa94.js.map",
       "build-js-styles.css.map"
     ],
     "path---projects-personal-rotten-trumpatoes": [
@@ -127,8 +127,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-9ee0bce32bd473dcf59d.js",
-      "component---src-pages-about-js-9ee0bce32bd473dcf59d.js.map"
+      "component---src-pages-about-js-1c69a9fe711c66c5efe7.js",
+      "component---src-pages-about-js-1c69a9fe711c66c5efe7.js.map"
     ],
     "path---projects-professional-noodles-and-co": [
       "path---projects-professional-noodles-and-co-62cef9e6bd4d9ff3c0bf.js",
